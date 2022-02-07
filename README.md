@@ -1,4 +1,4 @@
-# bmi_calculator3
+# 100x100
 
 A new Flutter project.
 
